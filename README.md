@@ -21,7 +21,7 @@ To submit the completed assignment:
 6. Open a Pull Request (PR) to merge the branch into the main repository.
 
 ## Sample Document
-Refer to the sample document named luxi-landing-page.pdf for images to be used in the design.
+Refer to the sample document named [luxi-landing-page.pdf](luxi-landing-page.pdf) for image resources to be used in the design.
 
 
 ## Evaluation Criteria
